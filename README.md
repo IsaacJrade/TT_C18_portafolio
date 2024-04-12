@@ -20,6 +20,8 @@ aprendemos librerias basicas como:
 
 ## Sprint 3 -- Data wrangling
 
+se añade por completar
+
 ## Sprint 4 -- Analisis Estadistico
 
 ## Sprint 5 -- Intro al desarrollo de software 

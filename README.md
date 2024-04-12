@@ -1,5 +1,9 @@
 # TT_C18_portafolio
 portafolio creado a partir de los proyectos del bootcamp 
+
+
+## Sprint 1 -- Python basico parte 1
+
 Aprendemos habilidades basicas de python, principalmente:
 -tipos de datos
 -listas anidadas
@@ -7,7 +11,6 @@ Aprendemos habilidades basicas de python, principalmente:
 -condiciones con if
 
 
-## Sprint 1 -- Python basico parte 1
 
 ## Sprint 2 -- Python basico parte 2
 

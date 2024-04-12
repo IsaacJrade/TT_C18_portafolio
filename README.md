@@ -20,7 +20,11 @@ aprendemos librerias basicas como:
 
 ## Sprint 3 -- Data wrangling
 
+<<<<<<< HEAD
 aprendemos por completar
+=======
+se añade por completar
+>>>>>>> 8920c7f1d943d4bec4e370c0906025e26c2a2d46
 
 ## Sprint 4 -- Analisis Estadistico
 
